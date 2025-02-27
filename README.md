@@ -1,9 +1,3 @@
-# bash
-
-Here's a sample `.readme` file for your GitHub repo with a list of useful and common Bash commands:
-
----
-
 # Bash Commands Cheat Sheet
 
 A collection of useful and commonly used **Bash** commands for quick reference. Perfect for developers and system administrators.
@@ -282,7 +276,6 @@ A collection of useful and commonly used **Bash** commands for quick reference. 
 
 ---
 
-Feel free to contribute or make suggestions for additional commands!
 
 ---
 
